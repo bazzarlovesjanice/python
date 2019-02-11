@@ -3,7 +3,7 @@ def get_question_from_user(friend):
     print("{} {} what is your question?".format("hello", friend))
     question =raw_input()
 
-    print("Your question is:{}".format(question))
+    print("Your question is kaka:{}".format(question))
 
 def generate_random_number():
     random_number = random.randint(0,4)
